@@ -29,7 +29,7 @@ DISTRIB_DESCRIPTION="Ubuntu 22.04.1 LTS"
 
 https://learn.microsoft.com/ja-jp/windows/wsl/tutorials/gui-apps
 
-EclipseはLinux用のtar.gzをDLして適当に置いて、Plaiadesも手順通りに設定すれば問題なく適用されます。
+EclipseもLinux用のtar.gzをDLして適当に置いて、Plaiadesも手順通りに設定すれば問題なく適用されます。
 
 パスを通したらwsl内で`eclipse`を実行するか、あるいはWindows上から`wslg.exe eclipse`とコマンドをたたいてもLinuxのGUIのEclipseが立ち上がります。
 
